@@ -1,5 +1,6 @@
 # Excel_Parser
-CLI tool to parse CSV and Excel files for x-value associated with given y-value, using interpolation when necessary. Supported filetypes are .csv, .xls, .xlsx, .xlsm, .xlsb. 
+A CLI tool to parse CSV and Excel files for x-value associated with given y-value, using interpolation when necessary.
+Supported filetypes are .csv, .xls, .xlsx, .xlsm, .xlsb. 
 
 ## Usage
 ```
