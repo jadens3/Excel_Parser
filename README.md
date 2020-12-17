@@ -15,7 +15,7 @@ Options:
 ```
 
 ## Example
-This is an example program interaction where the client uses a .csv file and sorts the input before parsing.
+This is an example program interaction where the client uses a .csv file and sorts the input before parsing. When entering y-column, the client provides invalid input and is prompted with column names.
 
 ```
 $ python excelparser.py --sort=True example.csv
